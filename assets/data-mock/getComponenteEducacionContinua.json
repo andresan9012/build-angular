@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "nombreComponente":"No Definido"
+    },
+    {
+        "id": 1,
+        "nombreComponente":"Agua"
+    },
+    {
+        "id": 2,
+        "nombreComponente":"Suelo"
+    },
+    {
+        "id": 3,
+        "nombreComponente":"Flora"
+    },
+    {
+        "id": 4,
+        "nombreComponente":"Fauna"
+    },
+    {
+        "id": 5,
+        "nombreComponente":"Aire"
+    },
+    {
+        "id": 6,
+        "nombreComponente":"Otros"
+    }
+]

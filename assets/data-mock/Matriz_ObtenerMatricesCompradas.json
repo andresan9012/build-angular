@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "recurso":"Social",
+        "concepto":"Situación epidemiológica causada por el Coronavirus (COVID-19)",
+        "tipoNormal":"DECRETO",
+        "numeroInternoMatriz":"87",
+        "fechaPublicacion":"2020-10-01",
+        "entidadEmisora":"ALCALDIA MAYOR DE BOGOTÁ",
+        "descripcionDeNorma":"Por el cual se declara la calamidad pública con ocasión de la situación epidemiológica causada por el Coronavirus (COVID-19) en Bogotá, D.C. ",
+        "estado":"Vigente",
+        "nombreMatriz":"Situación epidemiológica causada por el Coronavirus (COVID-19)",
+        "version":"01",
+        "codigo":"FGA 01",
+        "especialidadId":1
+    },
+    {
+        "id":2,
+        "recurso":"Agua",
+        "concepto":"Programa de uso eficiente y ahorro de agua",
+        "tipoNormal":"DECRETO",
+        "numeroInternoMatriz":"1090",
+        "fechaPublicacion":"2020-10-01",
+        "entidadEmisora":"PRESIDENTE DE LA REPUBLICA DE COLOMBIA",
+        "descripcionDeNorma":"Por el cual se aduiciona el decreto 1076 de 2015 decreto unico reglamentario del sector ambiente y desarrollo sostenible en lo relacionado con el programa para el uso eficiente y ahorro de agua y se dictan otras disposiciones.",
+        "estado":"Vigente",
+        "nombreMatriz":"Programa de uso eficiente y ahorro de agua",
+        "version":"01",
+        "codigo":"FGA 01",
+        "especialidadId":2
+    }
+]

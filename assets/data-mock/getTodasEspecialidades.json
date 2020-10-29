@@ -1,0 +1,177 @@
+{
+    "SECTOR PRIMARIO": [
+        {
+            "id": 1,
+            "nombreEspecialidad": "Agricultura",
+            "tipoSector": "SECTOR PRIMARIO",
+            "children": [
+                {
+                    "id": 10,
+                    "nombreEspecialidad": "Agricultura 1",
+                    "tipoSector": "SECTOR PRIMARIO",
+                    "children": [
+                        {
+                            "id": 12,
+                            "nombreEspecialidad": "Agricultura 1.1",
+                            "tipoSector": "SECTOR PRIMARIO",
+                            "children": null
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "nombreEspecialidad": "Agricultura 2",
+                    "tipoSector": "SECTOR PRIMARIO",
+                    "children": null
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nombreEspecialidad": "Ganadería",
+            "tipoSector": "SECTOR PRIMARIO",
+            "children": [
+                {
+                    "id": 13,
+                    "nombreEspecialidad": "Ganadería 1",
+                    "tipoSector": "SECTOR PRIMARIO",
+                    "children": null
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nombreEspecialidad": "Piscícola",
+            "tipoSector": "SECTOR PRIMARIO",
+            "children": [
+                {
+                    "id": 14,
+                    "nombreEspecialidad": "Piscícola 1",
+                    "tipoSector": "SECTOR PRIMARIO",
+                    "children": [
+                        {
+                            "id": 15,
+                            "nombreEspecialidad": "Piscícola 1.1",
+                            "tipoSector": "SECTOR PRIMARIO",
+                            "children": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nombreEspecialidad": "Avícola",
+            "tipoSector": "SECTOR PRIMARIO",
+            "children": [
+                {
+                    "id": 8,
+                    "nombreEspecialidad": "Avícola 1",
+                    "tipoSector": "SECTOR PRIMARIO",
+                    "children": [
+                        {
+                            "id": 16,
+                            "nombreEspecialidad": "Avícola 1.1",
+                            "tipoSector": "SECTOR PRIMARIO",
+                            "children": null
+                        },
+                        {
+                            "id": 17,
+                            "nombreEspecialidad": "Avícola 1.2",
+                            "tipoSector": "SECTOR PRIMARIO",
+                            "children": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "SECTOR SECUNDARIO": [
+        {
+            "id": 2,
+            "nombreEspecialidad": "Minería",
+            "tipoSector": "SECTOR SECUNDARIO",
+            "children": null
+        },
+        {
+            "id": 3,
+            "nombreEspecialidad": "Industria (plástico, pintura, alimento, textil)",
+            "tipoSector": "SECTOR SECUNDARIO",
+            "children": [
+                {
+                    "id": 18,
+                    "nombreEspecialidad": "Industria (plástico, pintura, alimento, textil) 1",
+                    "tipoSector": "SECTOR SECUNDARIO",
+                    "children": null
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombreEspecialidad": "Hidrocarburos",
+            "tipoSector": "SECTOR SECUNDARIO",
+            "children": [
+                {
+                    "id": 19,
+                    "nombreEspecialidad": "Hidrocarburos 1 ",
+                    "tipoSector": "SECTOR SECUNDARIO",
+                    "children": null
+                },
+                {
+                    "id": 20,
+                    "nombreEspecialidad": "Hidrocarburos 2 ",
+                    "tipoSector": "SECTOR SECUNDARIO",
+                    "children": null
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "nombreEspecialidad": "Construcción",
+            "tipoSector": "SECTOR SECUNDARIO",
+            "children": [
+                {
+                    "id": 21,
+                    "nombreEspecialidad": "Construcción 1",
+                    "tipoSector": "SECTOR SECUNDARIO",
+                    "children": null
+                },
+                {
+                    "id": 22,
+                    "nombreEspecialidad": "Construcción 2 ",
+                    "tipoSector": "SECTOR SECUNDARIO",
+                    "children": null
+                }
+            ]
+        }
+    ],
+    "SECTOR TERCIARIO": [
+        {
+            "id": 5,
+            "nombreEspecialidad": "SERVICIO (servicios públicos, educación, salud, transporte)",
+            "tipoSector": "SECTOR TERCIARIO",
+            "children": [
+                {
+                    "id": 23,
+                    "nombreEspecialidad": "SERVICIO (servicios públicos, educación, salud, transporte) 1",
+                    "tipoSector": "SECTOR TERCIARIO",
+                    "children": [
+                        {
+                            "id": 24,
+                            "nombreEspecialidad": "SERVICIO (servicios públicos, educación, salud, transporte) 1.2",
+                            "tipoSector": "SECTOR TERCIARIO",
+                            "children": [
+                                {
+                                    "id": 25,
+                                    "nombreEspecialidad": "SERVICIO (servicios públicos, educación, salud, transporte) 1.2.1",
+                                    "tipoSector": "SECTOR TERCIARIO",
+                                    "children": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
