@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "recurso":"Social",
+        "concepto":"Situación epidemiológica causada por el Coronavirus (COVID-19)",
+        "tipoNorma":"DECRETO",
+        "numeroNorma":"87",
+        "año":"2020",
+        "entidadEmisora":"ALCALDIA MAYOR DE BOGOTÁ",
+        "descripcionDeNorma":"Por el cual se declara la calamidad pública con ocasión de la situación epidemiológica causada por el Coronavirus (COVID-19) en Bogotá, D.C. ",
+        "estado":"Vigente"
+    },
+    {
+        "id":1,
+        "recurso":"Social",
+        "concepto":"Situación epidemiológica causada por el Coronavirus (COVID-19)",
+        "tipoNorma":"DECRETO",
+        "numeroNorma":"90",
+        "año":"2020",
+        "entidadEmisora":"ALCALDIA MAYOR DE BOGOTÁ",
+        "descripcionDeNorma":"Por la cual se adoptan medidas transitorias para garantizar el orden publico en el Distrito Capital, con ocasión de la declaratoria de calamidad publica efectuada mediante el Decreto Distrital  87 del 2020",
+        "estado":"Vigente"
+    },
+    {
+        "id":1,
+        "recurso":"Social",
+        "concepto":"Situación epidemiológica causada por el Coronavirus (COVID-19)",
+        "tipoNorma":"DECRETO",
+        "numeroNorma":"457",
+        "año":"2020",
+        "entidadEmisora":"ALCALDIA MAYOR DE BOGOTÁ",
+        "descripcionDeNorma":"Por el cual se imparten instrucciones en virtud de la emergencia sanitaria generada por la pandemia del Coronavirus COVID-19 y el mantenimiento del orden público.",
+        "estado":"Vigente"
+    },
+    {
+        "id":1,
+        "recurso":"General",
+        "concepto":"Cartografia",
+        "tipoNorma":"RESOLUCIÓN",
+        "numeroNorma":"471",
+        "año":"2020",
+        "entidadEmisora":"INSTITUTO GEOGRAFICO AGUSTIN CODAZZI",
+        "descripcionDeNorma":"Por el medio de la cual se establecen las especificaciones tecnicas minimas que deben tener los productos de la cartografia basica oficial de colombia.",
+        "estado":"Vigente"
+    },
+    {
+        "id":1,
+        "recurso":"Suelo",
+        "concepto":"Residuos solidos Estudios de Impacto Ambiental ",
+        "tipoNorma":"RESOLUCIÓN ",
+        "numeroNorma":"76",
+        "año":"2019",
+        "entidadEmisora":"MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE",
+        "descripcionDeNorma":"Por la cual se adoptan los términos de referencia para la elaboración del Estudio de Impacto Ambiental (EIA), para el trámite de licencia ambiental de proyectos para la construcción y operación de instalaciones cuyo objeto sea el almacenamiento, tratamiento, y/o aprovechamiento (recuperación/reciclado) de Residuos de Aparatos Eléctricos o Electrónicos (RAEE).",
+        "estado":"Vigente"
+    },
+    {
+        "id":1,
+        "recurso":"Suelo",
+        "concepto":"Residuos solidos Estudios de Impacto Ambiental ",
+        "tipoNorma":"RESOLUCIÓN ",
+        "numeroNorma":"76",
+        "año":"2019",
+        "entidadEmisora":"MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE",
+        "descripcionDeNorma":"Por la cual se adoptan los términos de referencia para la elaboración del Estudio de Impacto Ambiental (EIA), para el trámite de licencia ambiental de proyectos para la construcción y operación de instalaciones cuyo objeto sea el almacenamiento, tratamiento, y/o aprovechamiento (recuperación/reciclado) de Residuos de Aparatos Eléctricos o Electrónicos (RAEE).",
+        "estado":"Vigente"
+    }
+]
